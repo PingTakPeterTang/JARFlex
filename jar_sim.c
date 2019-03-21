@@ -3,7 +3,7 @@
 #include <math.h>
 #include "jar_sim.h"
 
-#define  DEBUG_sim  1
+#define  DEBUG_sim  0
 
 UniJAR LinFP32_2_LogPSLm( UniJAR x ) {
 /*
